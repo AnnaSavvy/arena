@@ -1,1 +1,1 @@
-# school-game
+# Turn based arena game
